@@ -9,5 +9,3 @@ TheBrandoLife/TheBrandoLife is a humble repository because its `README.md` (this
 You can click the Preview link to take a look at your changes.
 --->
 
-FirstVariable = input("Can you code here? ")
-print(FirstVariable)
